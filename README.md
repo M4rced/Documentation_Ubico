@@ -25,3 +25,4 @@ ___
 | 11|[Activity Diagram](Activity_Diagram.md)
 | 12|[Sequences Diagram](Sequences_Diagram.md)
 | 13|[State Diagram](State_Diagram.md)
+| 14|[Deployment Diagram](Deployment_Diagram.md)
