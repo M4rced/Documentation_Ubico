@@ -1,5 +1,5 @@
 # Requirements
-___
+
 > **Introducción:** Este documento de especificación de requerimientos de información se realiza para el proyecto UBICO
 > **PURPOSE:**To create an innovative software for the reservation of classrooms and other spaces within the university campus.
 ___
@@ -28,6 +28,13 @@ ___
 > **-** Accessibility.
 > **-** Adaptability.
 > **-** Capacity.
+___
+##### Critical functionalities:
+> **-** At the end of a reservation, both the agenda and the status of the reservation and the classroom must be updated automatically, since, if one of these fails, it would not be possible to identify whether a classroom is occupied or available and whether the reservation can be made or not.
+> **-** Depending on the type of user, the permissions and actions that can be performed within the PWA may be affected if the user registers incorrectly.
+> **-** Once the classroom reservation has been requested, the process to be accepted and denied begins. If there are several requests to reserve a classroom on the same date and time, the reservation will be denied.
+> **-** A student user type cannot request more than one reservation of a classroom, in the same schedule that he/she made the first one.
+
 
 
 
